@@ -1,16 +1,29 @@
-## Hi there 👋
+## Takuya Oshima
 
-<!--
-**takuya-oshima/takuya-oshima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+UI Designer / Frontend Developer
 
-Here are some ideas to get you started:
+UIデザインとフロントエンド実装の両方を手がけています。
+Figmaでのデザインから、Next.js / React / TypeScriptでの実装まで、一貫して担当するのが得意です。
+デザインと実装をつなぎ、使う人にとっても、作る人にとっても良いプロダクトをつくることを目指しています。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Works
+
+- [Portfolio](https://takuya-oshima.com/ja/)（[リポジトリ](https://github.com/takuya-oshima/portfolio)）
+  - CSS Design Awards 4賞受賞（Special Kudos / Best UI / Best UX / Best Innovation）
+  - Awwwards Nominee / CSS Winner STAR賞
+
+### Skills
+
+- **Design：** Figma / Adobe XD / Photoshop / Illustrator
+- **Frontend：** HTML / CSS / Sass / JavaScript / TypeScript / React / Next.js / Tailwind CSS / Storybook
+- **CMS：** WordPress / microCMS
+- **Tools：** Git / GitHub / VS Code / Vite
+
+### Learning
+
+- Vitest / React Testing Libraryによるコンポーネントテスト
+- Webアクセシビリティ（WCAG）
+
+### Links
+
+- Portfolio：https://takuya-oshima.com/ja/
