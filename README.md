@@ -2,10 +2,10 @@
 
 UI Designer / Frontend Developer
 
-UIデザインとフロントエンド実装の両方を手がけています。
-これまでFigmaでのUIデザインから、HTML / CSS / JavaScriptでの実装までを一貫して担当してきました。
-最近は、Next.js / React / TypeScriptでの開発に取り組んでいます。
-デザインと実装をつなぎ、使う人にとっても、作る人にとっても良いプロダクトをつくることを目指しています。
+UIデザインとフロントエンド実装の両方を手がけています。  
+これまでFigmaでのUIデザインから、HTML / CSS / JavaScriptでの実装までを一貫して担当してきました。  
+最近は、Next.js / React / TypeScriptでの開発に取り組んでいます。  
+デザインと実装をつなぎ、使う人にとっても、作る人にとっても良いプロダクトをつくることを目指しています。  
 
 ### Works
 
